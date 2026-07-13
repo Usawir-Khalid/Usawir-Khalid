@@ -76,10 +76,6 @@ A C++ skincare recommendation system developed using Object-Oriented Programming
 
 A growing collection of DSA implementations, coding exercises, and problem-solving solutions in C++.
 
-### 🌐 Portfolio Website
-
-A personal portfolio showcasing my projects, skills, and development journey.
-
 ### 🎓 Course Registration System
 
 A software project currently under development.
@@ -119,15 +115,7 @@ A software project currently under development.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
 
-<div align="center">
-
-### 📊 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Usawir-Khalid\&theme=dracula\&no-frame=true\&margin-w=10)
-
-</div>
 
 ---
 
@@ -136,26 +124,6 @@ A software project currently under development.
 ### 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=Usawir-Khalid\&theme=dracula)
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Usawir-Khalid\&label=Profile%20Views\&color=blueviolet\&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation"/>
 
 </div>
 
