@@ -93,6 +93,14 @@ A software project currently under development.
 * ✅ Contribute to Open Source
 * ✅ Secure a Software Engineering Internship
 
+  ## 👾 Coding Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usawir-Khalid/Usawir-Khalid/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usawir-Khalid/Usawir-Khalid/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Usawir-Khalid/Usawir-Khalid/pacman-output/pacman-contribution-graph-dark.svg">
+</picture>
+
 ---
 
 ## 📫 Connect With Me
