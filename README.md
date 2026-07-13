@@ -21,14 +21,6 @@ Computer Science Student • Aspiring Software Engineer
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usawir-Khalid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usawir-Khalid&layout=compact&theme=dracula" height="165"/>
-</div>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
