@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/crimson-intro.svg" alt="Project Crimson Hero">
+</p>
+
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Usawir Khalid</h1>
 
 <h3 align="center">
