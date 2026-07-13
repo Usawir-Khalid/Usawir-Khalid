@@ -60,7 +60,7 @@ Computer Science Student • Aspiring Software Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 &nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="40"/>
+
 
 </p>
 
