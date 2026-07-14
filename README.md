@@ -1,19 +1,36 @@
 <p align="center">
-  <img src="assets/crimson-intro.svg" alt="Project Crimson Hero">
+  <img src="assets/crimson-intro.svg" alt="Project Crimson Hero" width="100%">
 </p>
 
 <br>
 
----
-
 ## 👩‍💻 About Me
 
-* 🎓 Bachelor's student in Computer Science
-* 🌍 Based in **Pakistan 🇵🇰 & United Arab Emirates 🇦🇪**
-* 💻 Passionate about software development, problem-solving, and building real-world applications
-* 🌱 Currently learning **C++, Data Structures & Algorithms, HTML, CSS, JavaScript, Git & GitHub, MySQL**
-* 🚀 Building projects to strengthen my software engineering skills through academic and personal work
-* 🎯 Aspiring to become a **Full-Stack Software Engineer** and contribute to impactful software solutions
+- 🎓 Bachelor's student in Computer Science
+- 💻 Passionate about Software Engineering and Full-Stack Development
+- 🌱 Currently learning C++, Data Structures & Algorithms, Git & GitHub, MySQL, and Frontend Fundamentals (HTML, CSS & JavaScript)
+- 🚀 Building practical projects to strengthen my software development and problem-solving skills
+- 🎯 Seeking opportunities to grow through internships and real-world projects
+
+---
+
+## 🌱 The Journey
+
+Every repository on this profile represents another step in my journey as a software developer.
+
+My goal is to continuously learn, build meaningful projects, improve my technical skills, and document my progress along the way.
+
+> **"Every repository tells a story. This is mine."**
+
+---
+
+## 📚 Currently Learning
+
+- 💻 C++
+- 🌳 Data Structures & Algorithms
+- 🔀 Git & GitHub
+- 🗄️ MySQL
+- 🎨 Frontend Fundamentals (HTML, CSS & JavaScript)
 
 ---
 
@@ -21,75 +38,37 @@
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-&nbsp;
-
-
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,mysql,figma&theme=dark" />
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Statistics
 
-### 🌟 GlowCare
+<p align="center">
 
-A C++ skincare recommendation system developed using Object-Oriented Programming and File Handling.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Usawir-Khalid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-### 📚 Data Structures & Algorithms
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usawir-Khalid&layout=compact&theme=github_dark&hide_border=true"/>
 
-A growing collection of DSA implementations, coding exercises, and problem-solving solutions in C++.
-
-### 🎓 Course Registration System
-
-A software project currently under development.
-
----
-
-## 📖 Currently Exploring
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Frontend Web Development
-* Git & GitHub
-* Software Development Best Practices
+</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* ✅ Master Data Structures & Algorithms
-* ✅ Build 10+ quality software projects
-* ✅ Learn Frontend Development
-* ✅ Explore Full-Stack Development
-* ✅ Contribute to Open Source
-* ✅ Secure a Software Engineering Internship
+- ✅ Build 10+ quality software projects
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Learn Frontend Development
+- ✅ Explore Full-Stack Development
+- ✅ Secure a Software Engineering Internship
 
-  ## 👾 Coding Journey
+---
+
+## 👾 Coding Journey
+
+Every contribution represents another step in my learning journey.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usawir-Khalid/Usawir-Khalid/pacman-output/pacman-contribution-graph-dark.svg">
@@ -99,31 +78,35 @@ A software project currently under development.
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
+
+<p align="left">
 
 <a href="https://www.linkedin.com/in/usawir-khalid">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
- 
 
 <a href="mailto:usawirks@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Usawir-Khalid">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-
----
-
-<div align="center">
-
-### 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=Usawir-Khalid\&theme=dracula)
-
-</div>
+</p>
 
 ---
+
+<p align="center">
+
+### Project Crimson v 1.0 ❤️
+
+*"Every repository tells a story. This is mine."*
+
+Thanks for visiting my profile!
+
+</p>
 
 <div align="center">
 
