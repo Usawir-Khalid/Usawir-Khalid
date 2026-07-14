@@ -44,18 +44,6 @@ My goal is to continuously learn, build meaningful projects, improve my technica
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Usawir-Khalid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usawir-Khalid&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - ✅ Build 10+ quality software projects
@@ -104,7 +92,7 @@ Every contribution represents another step in my learning journey.
 
 *"Every repository tells a story. This is mine."*
 
-Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building.
 
 </p>
 
@@ -114,6 +102,5 @@ Thanks for visiting my profile!
 
 > *"The best way to predict the future is to create it."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building.
 
 </div>
