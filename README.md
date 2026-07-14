@@ -4,17 +4,6 @@
 
 <br>
 
-
-<h1 align="center">Hi 👋, I'm Usawir Khalid</h1>
-
-<h3 align="center">
-Computer Science Student • Aspiring Software Engineer
-</h3>
-
-<p align="center">
-🇵🇰 Pakistan • 🇦🇪 United Arab Emirates
-</p>
-
 ---
 
 ## 👩‍💻 About Me
