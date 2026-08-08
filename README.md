@@ -8,9 +8,11 @@
 
 - 🎓 Bachelor's student in Computer Science
 - 💻 Passionate about Software Engineering and Full-Stack Development
-- 🌱 Currently learning C++, Data Structures & Algorithms, Git & GitHub, MySQL, and Frontend Fundamentals (HTML, CSS & JavaScript)
-- 🚀 Building practical projects to strengthen my software development and problem-solving skills
-- 🎯 Seeking opportunities to grow through internships and real-world projects
+- 📱 Currently focused on Flutter & Dart and Mobile App Development
+- 🔥 Exploring Firebase, backend integration, and production-ready application development
+- 🌱 Continuously strengthening Data Structures & Algorithms, Git & GitHub, MySQL, and software engineering fundamentals
+- 🚀 Building practical projects to turn what I learn into real-world applications
+- 🎯 Focused on growing my skills through real-world projects, collaboration, and continuous learning
 
 ---
 
@@ -18,7 +20,9 @@
 
 Every repository on this profile represents another step in my journey as a software developer.
 
-My goal is to continuously learn, build meaningful projects, improve my technical skills, and document my progress along the way.
+From learning programming fundamentals to building Flutter applications, I'm continuously working on improving my technical skills, exploring new technologies, and turning ideas into meaningful projects.
+
+My goal is to become a well-rounded software engineer who can design, build, and maintain high-quality applications.
 
 > **"Every repository tells a story. This is mine."**
 
@@ -26,37 +30,50 @@ My goal is to continuously learn, build meaningful projects, improve my technica
 
 ## 📚 Currently Learning
 
-- 💻 C++
+- 📱 Flutter & Dart
+- 🔥 Firebase & Backend Integration
 - 🌳 Data Structures & Algorithms
 - 🔀 Git & GitHub
 - 🗄️ MySQL
-- 🎨 Frontend Fundamentals (HTML, CSS & JavaScript)
+- 🌐 Full-Stack Development
+- 🏗️ Software Engineering Fundamentals
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,mysql,figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=framer" />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Build 10+ quality software projects
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Learn Frontend Development
-- ✅ Explore Full-Stack Development
-- ✅ Secure a Software Engineering Internship
+- 🚀 Build 10+ quality software projects
+- 📱 Build polished, production-ready Flutter applications
+- 🔥 Gain hands-on experience with Firebase and backend development
+- 🌳 Strengthen Data Structures & Algorithms
+- 🌐 Expand my Full-Stack Development skills
+- 🏗️ Improve software engineering and system design fundamentals
+- 🤝 Gain experience working on real-world software projects
+- 🌱 Contribute to meaningful open-source projects
+- 💼 Continue growing as a Software Engineer
 
 ---
 
 ## 👾 Coding Journey
 
 Every contribution represents another step in my learning journey.
+I believe that consistency, curiosity, and building real projects are some of the best ways to become a better developer.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usawir-Khalid/Usawir-Khalid/pacman-output/pacman-contribution-graph-dark.svg">
@@ -67,6 +84,9 @@ Every contribution represents another step in my learning journey.
 ---
 
 ## 📬 Connect With Me
+
+I'm always open to connecting with fellow developers, collaborating on interesting projects, and learning from others in the tech community.
+
 
 <p align="left">
 
@@ -92,7 +112,7 @@ Every contribution represents another step in my learning journey.
 
 *"Every repository tells a story. This is mine."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building.
+⭐Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning, building, and growing as a software engineer.
 
 </p>
 
